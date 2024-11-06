@@ -3,6 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AplikacjaMobilna.Tabbed_Page.AboutPage">
     <ContentPage.Content>
-        <StackLayout></StackLayout>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Label Text="Gra w kości - Paweł Marcisz" HorizontalOptions="Center" VerticalOptions="Center" BackgroundColor="Brown" TextColor="White" FontSize="Large"/>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

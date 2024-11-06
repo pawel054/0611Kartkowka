@@ -6,12 +6,5 @@
             BackgroundColor="Beige">
     <local:HomePage Title="Kości"></local:HomePage>
     <local:AboutPage Title="O autorze"></local:AboutPage>
-    <ContentPage>
-        <ContentPage.Content>
-            <StackLayout>
-                <Image Source="lcizba1.jpg" WidthRequest="111"/>
-            </StackLayout>
-        </ContentPage.Content>
-    </ContentPage>
 
 </TabbedPage>
